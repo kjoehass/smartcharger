@@ -1,0 +1,38 @@
+var charger_8h =
+[
+    [ "BTN1_PORT", "charger_8h.html#a1d5c9bdfffcd88931bcab5add8f69330", null ],
+    [ "BTN1_Pos", "charger_8h.html#a0d2171fc428bb1690de2d6d35f11fae9", null ],
+    [ "BUTTON1_PRESSED", "charger_8h.html#a88d687ec0270b05e20c85c83f191a024", null ],
+    [ "FLAG1_Msk", "charger_8h.html#adb0d94571d7ef7df43a94647c13a730a", null ],
+    [ "FLAG1_PORT", "charger_8h.html#afc6a495708d126d07577bdd74cd693e9", null ],
+    [ "FLAG1_Pos", "charger_8h.html#acedebf22a3c3cacb217471d48d37a8f5", null ],
+    [ "I_MAX_MA", "charger_8h.html#a4664d8f2c7b5fc7c1619a86f0ec4b22d", null ],
+    [ "I_SCALE_DENOMINATOR", "charger_8h.html#a6694bd50b6bb606f9bee605d7aa44fe1", null ],
+    [ "I_SCALE_NUMERATOR", "charger_8h.html#af8388d9a82ee5d20fc2d73121ccdb865", null ],
+    [ "MODE1_CURRENT_MA", "charger_8h.html#a75719826231baaded30955287d81da29", null ],
+    [ "MODE1_VOLTAGE_MV", "charger_8h.html#acc1654433c4c1af7ad32859fc0ebb318", null ],
+    [ "MODE2_CURRENT_MA", "charger_8h.html#a9fac06211d62c1a2967d00a6e50c54c1", null ],
+    [ "MODE2_VOLTAGE_MV", "charger_8h.html#a3dbda1866df5cd0bc16fab99924bdb5d", null ],
+    [ "MODE3_VOLTAGE_MV", "charger_8h.html#a653480f2af346947a14055dbddb464f5", null ],
+    [ "OPEN_VOLTAGE_MV", "charger_8h.html#a6dc1bd0a4ebfb54241782dc63ac3ec9b", null ],
+    [ "SAMPLES_FAST_AVERAGE", "charger_8h.html#af7c58a614424d78e44e2b6d844959346", null ],
+    [ "SAMPLES_TO_AVERAGE", "charger_8h.html#ab78b5dd637d266b4c3f5642da81ba69e", null ],
+    [ "SHORT_VOLTAGE_MV", "charger_8h.html#a155b9d569ca9278041cbc9692ef10107", null ],
+    [ "V_MAX_MV", "charger_8h.html#a50c835c628316f78a55515a58589e3c2", null ],
+    [ "V_SCALE_DENOMINATOR", "charger_8h.html#a00636604332cb667db002f53b69bd1ec", null ],
+    [ "V_SCALE_NUMERATOR", "charger_8h.html#a236e185c458da8c4305d3bb63fa98df6", null ],
+    [ "ChargerState", "charger_8h.html#af912b18af8de205312a5d27282e95cde", [
+      [ "ERROR", "charger_8h.html#af912b18af8de205312a5d27282e95cdea2fd6f336d08340583bd620a7f5694c90", null ],
+      [ "CALIBRATE", "charger_8h.html#af912b18af8de205312a5d27282e95cdeaaab5a2bcea860b4f52557e01cb37c66f", null ],
+      [ "WAIT4BUTTON", "charger_8h.html#af912b18af8de205312a5d27282e95cdea84e04feeb70146c1d6f609660d20cea0", null ],
+      [ "CHECK4BATT", "charger_8h.html#af912b18af8de205312a5d27282e95cdeac53ee90175038245e571a7afe7985feb", null ],
+      [ "CC_CHARGE", "charger_8h.html#af912b18af8de205312a5d27282e95cdeacad1f95421284c28d462180d85c320e9", null ],
+      [ "CV_CHARGE", "charger_8h.html#af912b18af8de205312a5d27282e95cdea51ed40b70a4a73164180010de321e4a9", null ],
+      [ "TRICKLE", "charger_8h.html#af912b18af8de205312a5d27282e95cdea50641d73493fcffb14b565b51a27d6f3", null ]
+    ] ],
+    [ "FastVoltage", "charger_8h.html#a072b3046a3b425f96c26c3bb1a9376b8", null ],
+    [ "RawCurrent", "charger_8h.html#a0142489055e8b3b737784a72afddf73b", null ],
+    [ "RawVoltage", "charger_8h.html#a83e89a22da06d138a4a9373955d02d34", null ],
+    [ "State", "charger_8h.html#ad81e98c190f340de41b9d2092d640cdd", null ],
+    [ "Temperature", "charger_8h.html#a3edd7bb06bb02480aecd235e8ae70219", null ]
+];
